@@ -1,0 +1,208 @@
+nav{
+	background-color: #2f3c4d;
+}
+
+.logo{
+	height: 50px;
+}
+
+.btn_login{
+	font-weight: bold;
+	background-color: #424450;
+	border: none;
+	width: 150px;
+	height: 50px;
+	color: white;
+	border-radius: 10px;
+}
+
+.btn_regist{
+	font-weight: bold;
+	background-color: #24B14C;
+	border: none;
+	width: 150px;
+	height: 50px;
+	color: white;
+	margin-right: 20px;
+	border-radius: 10px;
+}
+
+.btn_begin{
+	font-weight: bold;
+	background-color: #24B14C;
+	border: none;
+	width: 300px;
+	height: 50px;
+	color: white;
+	margin-right: 20px;
+	border-radius: 10px;
+}
+
+.top{
+	background-color: #2f3c4d;
+	color: white;
+}
+
+h2{
+	padding-top: 50px;
+}
+
+.bg_brown{
+	padding: 15px;
+	background-color: #f5f6f8;
+	height: 380px;
+	border-radius: 10px;
+}
+
+@media {
+	.bg_brown{
+		height: 380px;
+	}
+	.saying_box{
+		height: 300px;
+	}
+	.saying_box_1{
+		margin-top: 40px;
+	}
+	.saying_box_2{
+		margin-top: 64px;
+	}
+}
+
+@media (max-width: 894px) {
+	.bg_brown{
+		height: auto;
+		margin-bottom: 20px;
+	}
+	.saying_box{
+		height: auto;
+		margin-bottom: 20px;
+	}
+	.saying_box_1{
+		margin-top: 0px;
+	}
+	.saying_box_2{
+		margin-top: 0px;
+	}
+}
+
+.trade_simple_title{
+	font-weight: bold;
+}
+
+.btn_trade_yellow{
+	font-weight: bold;
+	background-color: #24B14C;
+	border: none;
+	width: 200px;
+	height: 40px;
+	color: white;
+	margin-right: 20px;
+	border-radius: 10px;
+}
+
+.trade_profi{
+	background-color: #2f3c4d;
+	color: white;
+}
+
+.trade_profi_title{
+	padding-top: 50px;
+}
+
+.trade_profi_sub{
+	text-align: justify;
+}
+
+.btn_trade_black{
+	font-weight: bold;
+	background-color: #1e1e1c;
+	border: none;
+	width: 200px;
+	height: 40px;
+	color: white;
+	margin-right: 20px;
+	border-radius: 10px;
+}
+
+footer{
+	background-color: #2f3c4d;
+}
+
+.col-2dot4, 
+.col-sm-2dot4, 
+.col-md-2dot4, 
+.col-lg-2dot4, 
+.col-xl-2dot4 {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.col-2dot4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+@media (min-width: 540px) {
+    .col-sm-2dot4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+}
+@media (min-width: 720px) {
+    .col-md-2dot4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+}
+@media (min-width: 960px) {
+    .col-lg-2dot4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+}
+@media (min-width: 1140px) {
+    .col-xl-2dot4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+}
+.saying{
+	background-color: #131313;
+	padding-bottom: 50px;
+}
+
+.saying_box{
+	padding: 15px;
+	background-color: #f5f6f8;
+	border-radius: 10px;
+}
+.logo_footer{
+	height: 70px;
+}
+
+footer select{
+	padding: 10px;
+	color: white;
+	background-color: #29313c;
+	border-radius: 5px;
+}
+
+.text_warring{
+	border-top: 0.5px #707179;
+	border-style: ridge;
+	border-right: none;
+	border-left: none;
+	border-bottom: none;
+}
