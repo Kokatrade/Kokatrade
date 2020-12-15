@@ -1,26 +1,6 @@
 nav{
 	background-color: #2f3c4d;
 }
-.nav-link{
-	color: white !important;
-	font-weight: bold !important;
-}
-.nav-link:hover{
-	color: white !important;
-	border-bottom: 5px solid white !important;
-}
-
-@media {
-	nav ul{
-		background-color: none;
-		margin-right: 30px;
-	}
-}
-@media (max-width: 991px) {
-	nav ul{
-		background-color: #1f144a;
-	}
-}
 
 .logo{
 	height: 50px;
